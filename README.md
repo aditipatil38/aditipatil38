@@ -14,7 +14,6 @@ Data Science & Machine Learning
 ![Static Badge](https://img.shields.io/badge/ScikitLearn-black?style=for-the-badge&logo=scikitlearn)
 ![Static Badge](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow)
 ![Static Badge](https://img.shields.io/badge/Plotly-black?style=for-the-badge&logo=plotly)
-![Static Badge](https://img.shields.io/badge/Seaborn-black?style=for-the-badge)
 <br>
 <br>
 Databases
