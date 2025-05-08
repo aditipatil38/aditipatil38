@@ -1,3 +1,5 @@
+![Banner](./gitprofile1.png)
+
 ## Software Engineer | Full-Stack Development with AI/ML integration | Data Analytics
 
 Driven by the precision of data and the potential of AI, I specialize in building scalable systems and practical solutions. With a strong foundation in backend development and data analytics, I aim to create systems that address real-world challenges. Always exploring new technologies to refine processes and improve efficiency.
