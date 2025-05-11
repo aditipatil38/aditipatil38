@@ -94,6 +94,8 @@ Driven by the precision of data and the potential of AI, I specialize in buildin
 ![Static Badge](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)
 ![Static Badge](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)
 
+---
+
 <br>
 <br>
 <br>
