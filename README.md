@@ -67,7 +67,7 @@ Driven by the precision of data and the potential of AI, I specialize in buildin
 
 ---
 
-#### Cloud & Platforms
+#### Cloud Platforms
 
 ![Static Badge](https://img.shields.io/badge/google_bigquery-black?style=for-the-badge&logo=googlebigquery)
 ![Static Badge](https://img.shields.io/badge/Azure_Databricks-black?style=for-the-badge&logo=databricks)
