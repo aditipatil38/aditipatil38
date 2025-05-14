@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<h3 align="center"> 👋 Hi There </h3>
+<h3 align="center"> 👋 Hi There, </h3>
 
 I'm **Aditi**, a tech enthusiast with hands-on experience in Web Development oriented towards AI/ML-Data Science & Data Analytics. 
 
