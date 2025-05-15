@@ -1,7 +1,7 @@
 
 ***
 
-![Banner](./gitprofile74.png)
+![Banner](./gitprofile.png)
 
 ---
 
