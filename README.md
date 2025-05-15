@@ -1,6 +1,3 @@
-
-***
-
 ![Banner](./gitprofile74.png)
 
 ---
@@ -9,9 +6,11 @@
 
 <h3 align="center">  Hi there !! 👋 </h3>
 
-I'm **Aditi**, a tech enthusiast with hands-on experience in Web Development oriented towards AI/ML-Data Science & Data Analytics. 
+I'm **Aditi**, a tech-domain professional working across Web Development, with a focus on AI/ML, Data Science, and Data Analytics.
 
-## **Software Engineer | Full-Stack Developer | AI/ML Explorer | Data Analytics Enthusiast**
+---
+
+### **Software Engineer | Full-Stack Developer | AI/ML Explorer | Data Analytics Enthusiast**
 
 With a strong foundation in backend development and data analytics, I aim to create systems that address real-world challenges, <br>
 Driven by the precision of data and the potential of AI, I specialize in building scalable systems and practical solutions, <br>
@@ -30,7 +29,7 @@ Always exploring new technologies to refine processes and improve efficiency.
 
 </div>
 
----
+***
 
 **Technical Skills**
 
