@@ -1,5 +1,3 @@
-![Banner](./gitprofile74.png)
-
 ---
 
 <div align="center">
