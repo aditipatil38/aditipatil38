@@ -3,8 +3,12 @@
 <div align="center">
 
 <h3 align="center">  Hi there !! 👋 </h3>
+<p align="center">
+  
+I'm **Aditi**, a tech-domain professional working across Web Development,<br> 
+with a keen interest in AI/ML and Data Science.
 
-I'm **Aditi**, a tech-domain professional working across Web Development, with a focus on AI/ML, Data Science, and Data Analytics.
+</p>
 
 ---
 
