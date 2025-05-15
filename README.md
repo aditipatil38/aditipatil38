@@ -44,7 +44,6 @@ Always exploring new technologies to refine processes and improve efficiency.
   <img src="https://img.shields.io/badge/ScikitLearn-black?style=for-the-badge&logo=scikitlearn" alt="Scikit-learn Badge">
   <img src="https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow" alt="TensorFlow Badge">
   <img src="https://img.shields.io/badge/Plotly-black?style=for-the-badge&logo=plotly" alt="Plotly Badge">
-  <img src="https://img.shields.io/badge/Seaborn-black?style=for-the-badge" alt="Seaborn Badge">
 </p>
 <h4 align="center">Databases</h4>
 
