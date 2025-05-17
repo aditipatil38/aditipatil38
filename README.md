@@ -28,7 +28,7 @@
 ---
 
 <h3>Core Skills  
-    <img src="./56.gif" alt="Waving hand animated gif" height="20" width="35" />
+    <img src="./code.gif" alt="Waving hand animated gif" height="20" width="35" />
   </h3>
   
   - Build full-stack web apps that scale — fast and clean.  
@@ -39,7 +39,7 @@
 ***
 
 <h3 align="center">Technical Skills  
-    <img src="./56.gif" alt="Waving hand animated gif" height="20" width="35" />
+    <img src="./code.gif" alt="Waving hand animated gif" height="20" width="35" />
   </h3>
 
 <p align="center">
