@@ -1,3 +1,6 @@
+
+---
+
 <div align="center">
 
   <h3>Hi there !!  
@@ -90,12 +93,10 @@
   <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github" alt="GitHub Badge">
 </p>
 
-
 ***
+
 <div align="right" style="text-align:center; max-width: 600px;">
   Turning data into decisions & backend logic into impact.<br>
   I build systems that work, scale, and make sense!<br>
   Always optimizing, always exploring…
 </div>
-
----
