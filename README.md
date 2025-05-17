@@ -1,42 +1,48 @@
----
-
 <div align="center">
 
-<h3 align="center">  Hi there !! 👋 </h3>
-<p align="center">
+  <h3>Hi there !!  
+    <img src="./wave.gif" alt="Waving hand animated gif" height="40" width="40" />
+  </h3>
   
-I'm **Aditi**,<br> 
-a tech-domain professional working across Web Development,<br> 
-with a keen interest in AI/ML and Data Science.
-
-</p>
+  <p>
+    I'm <strong>Aditi</strong>,<br>
+    a tech enthusiast exploring across web development,<br>
+    with a keen interest in AI/ML and data science.
+  </p>
+  
+</div>
 
 ---
 
-### **Software Engineer | Full-Stack Developer | AI/ML Explorer | Data Analytics Enthusiast**
+<h3 align="center"><strong>Software Engineer | Full-Stack Developer | AI/ML Explorer | Data Analytics Enthusiast</strong></h3>
 
-With a strong foundation in backend development and data analytics, I aim to create systems that address real-world challenges, <br>
-Driven by the precision of data and the potential of AI, I specialize in building scalable systems and practical solutions, <br>
-Always exploring new technologies to refine processes and improve efficiency.
-
+<div align="center">
+<img src="./giftech.gif" alt="Tech Banner" width="200" >
+ <p>
+   With a strong foundation in backend development and data analytics, I aim to create systems that address real-world challenges.<br>
+   Driven by the precision of data and the potential of AI, I specialize in building scalable systems and practical solutions. <br>
+   Always exploring new technologies to refine processes and improve efficiency.
+  </p>
 </div>
 
-<div>
+---
 
-**Core Skills**
-
-- Build full-stack web apps that scale — fast and clean.
-- Integrate AI/ML models into real-world products using tools like **LangChain**, **scikit-learn**, and **TensorFlow**.
-- Translate raw data into visual stories using **Power BI**, **Tableau**, and **Looker Studio**.
-- Explore ways to make systems smarter, faster, and more helpful through automation and data.
-
-</div>
+<h3>Core Skills  
+    <img src="./56.gif" alt="Waving hand animated gif" height="20" width="35" />
+  </h3>
+  
+  - Build full-stack web apps that scale — fast and clean.  
+  - Integrate AI/ML models into real-world products using tools like **LangChain**, **scikit-learn**, and **TensorFlow**.  
+  - Translate raw data into visual stories using **Power BI**, **Tableau**, and **Looker Studio**.  
+  - Explore ways to make systems smarter, faster, and more helpful through automation and data.
 
 ***
 
-**Technical Skills**
+<h3 align="center">Technical Skills  
+    <img src="./56.gif" alt="Waving hand animated gif" height="20" width="35" />
+  </h3>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge&logo=langchain" alt="LangChain Badge">
   <img src="https://img.shields.io/badge/LangGraph-black?style=for-the-badge&logo=langgraph" alt="LangGraph Badge">
   <img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas" alt="Pandas Badge">
@@ -86,8 +92,10 @@ Always exploring new technologies to refine processes and improve efficiency.
 
 
 ***
-<div align="right" style="text-align:center; max-width: 500px;">
+<div align="right" style="text-align:center; max-width: 600px;">
   Turning data into decisions & backend logic into impact.<br>
   I build systems that work, scale, and make sense!<br>
   Always optimizing, always exploring…
 </div>
+
+---
