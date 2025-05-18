@@ -39,7 +39,7 @@
   - Translate raw data into visual stories using **Power BI**, **Tableau**, and **Looker Studio**.  
   - Explore ways to make systems smarter, faster, and more helpful through automation and data.
 
-***
+---
 
 <h3 align="center">Technical Skills
     <img src="./code.gif" alt="Waving gif" height="20" width="25" />
@@ -93,7 +93,8 @@
   <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github" alt="GitHub Badge"><br>
 </p>
 
-***
+---
+
 <div align="right" style="text-align:center; max-width: 500px;">
   Turning data into decisions & backend logic into impact.<br>
   I build systems that work, scale, and make sense!<br>
