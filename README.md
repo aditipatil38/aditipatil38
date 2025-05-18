@@ -95,8 +95,10 @@
 
 ---
 
-<div align="right" style="text-align:center; max-width: 500px;">
-  Turning data into decisions & backend logic into impact.<br>
-  I build systems that work, scale, and make sense!<br>
-  Always optimizing, always exploring…
+<div align="center">
+ <p>
+   With a strong foundation in backend development and data analytics, I aim to create systems that address real-world challenges.<br>
+   Driven by the precision of data and the potential of AI, I specialize in building scalable systems and practical solutions. <br>
+   Always exploring new technologies to refine processes and improve efficiency.
+  </p>
 </div>
