@@ -102,5 +102,3 @@
     Always optimizing, always exploring…
   </sub>
 </p>
-
----
