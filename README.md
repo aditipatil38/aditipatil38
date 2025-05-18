@@ -45,7 +45,7 @@
     <img src="./code.gif" alt="Waving gif" height="20" width="25" />
   </h3>
 
-  <h3 align="center">
+  <p align="center">
   <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge&logo=langchain" alt="LangChain Badge">
   <img src="https://img.shields.io/badge/LangGraph-black?style=for-the-badge&logo=langgraph" alt="LangGraph Badge">
   <img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas" alt="Pandas Badge">
