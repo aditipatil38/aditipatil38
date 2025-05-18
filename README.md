@@ -96,9 +96,7 @@
 ---
 
 <p align="right">
-  <sub>
     Turning data into decisions & backend logic into impact.<br>
     I build systems that work, scale, and make sense!<br>
     Always optimizing, always exploring…
-  </sub>
 </p>
