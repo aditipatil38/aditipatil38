@@ -95,7 +95,7 @@
 
 ***
 
-<div align="right" style="text-align:center; max-width: 600px;">
+<div align="right" style="text-align:center; max-width: 600px;font-weight: normal;">
   Turning data into decisions & backend logic into impact.<br>
   I build systems that work, scale, and make sense!<br>
   Always optimizing, always exploring…
