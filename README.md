@@ -1,6 +1,12 @@
 
 ---
 
+<div align="right">
+  <a href="mailto:aditipatil.dev@gmail.com">
+    <img alt="Static Badge" src="https://img.shields.io/badge/aditipatil.dev%40gmail.com-black?style=flat-square&logo=gmail">
+  </a>
+</div>
+
 <div align="center">
 
   <h3>Hi there !!  
