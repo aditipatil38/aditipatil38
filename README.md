@@ -39,7 +39,7 @@
     <img src="./code.gif" alt="Waving hand animated gif" height="20" width="25" />
   </h3>
   
-  - Build full-stack web apps that scale — fast and clean.  
+  - Build full-stack web apps that scale - fast and clean.  
   - Integrate AI/ML models into real-world products using tools like **LangChain**, **scikit-learn**, and **TensorFlow**.  
   - Translate raw data into visual stories using **Power BI**, **Tableau**, and **Looker Studio**.  
   - Explore ways to make systems smarter, faster, and more helpful through automation and data.
