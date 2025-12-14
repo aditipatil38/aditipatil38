@@ -22,7 +22,7 @@
 
 ---
 
-<h3 align="center"><strong>Software Engineer | Full-Stack Developer | AI/ML Explorer | Data Analytics Enthusiast</strong></h3>
+<h3 align="center">Software Engineer | Full-Stack Development & Gen AI | Machine Learning | Data Analytics</h3>
 
 <div align="center">
 <img src="./giftech.gif" alt="Tech Banner" width="250" >
@@ -34,15 +34,69 @@
 </div>
 
 ---
+<h3 align="center">
+  I am a Software Engineer focused on integrating <br>
+  Backend Development with Generative AI, Machine Learning, and Data Analytics, <br>
+  building scalable systems that transform complex data into intuitive user experiences.
+</h3>
+
+<br>
+<h3>What I Do  
+    <img src="./code.gif" alt="code gif" height="20" width="25" />
+  </h3>
+<ul>
+  <li>
+    <strong>Backend:</strong> I architect scalable APIs using 
+    <strong>Django</strong> and <strong>FastAPI</strong>.
+  </li>
+  <li>
+    <strong>Generative AI:</strong> I integrate LLMs and RAG pipelines using 
+    <strong>LangChain</strong> and <strong>Hugging Face</strong>.
+  </li>
+    <li>
+    <strong>Machine Learning:</strong> I build predictive models and algorithms using <strong>scikit-learn</strong> and <strong>NLP</strong>.
+  </li>
+  <li>
+    <strong>Data Analytics:</strong> I process large-scale datasets with 
+    <strong>Pandas</strong> and visualize insights in <strong>Power BI</strong>.
+  </li>
+  <li>
+    <strong>Cloud:</strong> I deploy production-grade applications on 
+    <strong>GCP</strong> and <strong>Firebase</strong>.
+  </li>
+</ul>
+<br>
 
 <h3>Core Skills  
-    <img src="./code.gif" alt="Waving hand animated gif" height="20" width="25" />
+    <img src="./code.gif" alt="code gif" height="20" width="25" />
   </h3>
   
-  - Build full-stack web apps that scale - fast and clean.  
-  - Integrate AI/ML models into real-world products using tools like **LangChain**, **scikit-learn**, and **TensorFlow**.  
-  - Translate raw data into visual stories using **Power BI**, **Tableau**, and **Looker Studio**.  
-  - Explore ways to make systems smarter, faster, and more helpful through automation and data.
+<ul>
+  <li>
+    <strong>Backend Engineering:</strong> Architecting scalable, production-grade APIs using 
+    <strong>Python</strong> (<strong>Django</strong>, <strong>FastAPI</strong>), with a strong focus on core logic and database optimization.
+  </li>
+  <li>
+    <strong>Generative AI Integration:</strong> Engineering context-aware AI applications by implementing 
+    <strong>RAG pipelines</strong> and <strong>LLM agents</strong> using 
+    <strong>LangChain</strong> and Vector Search to solve real-world user problems.
+  </li>
+    <li>
+    <strong>Machine Learning:</strong> Developing predictive models and implementing classification algorithms using <strong>scikit-learn</strong> and <strong>Natural Language Processing (NLP)</strong> techniques to uncover patterns and automate accurate data categorization.
+  </li>
+  <li>
+    <strong>Data Analytics:</strong> Transforming complex datasets into strategic business insights through automated pipelines using <strong>SQL</strong>, <strong>Pandas</strong>, and visualizing with
+    <strong>Power BI</strong>.
+  </li>
+  <li>
+    <strong>Full-Stack Deployment:</strong> Deploying end-to-end solutions by bridging 
+    <strong>React</strong> frontends with <strong>GCP</strong>/<strong>Firebase</strong> cloud infrastructure, 
+    with a focus on security and performance.
+  </li>
+</ul>
+<br>
+
+
 
 ---
 
